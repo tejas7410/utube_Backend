@@ -1,0 +1,17 @@
+{
+  "name": "youtube-backend",
+  "version": "1.0.0",
+  "description": "Backend Model for Apps like Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Youtube",
+    "VideoPlatform",
+    "Backend",
+    "DataModeling"
+  ],
+  "author": "Tejas Kangule",
+  "license": "ISC"
+}
